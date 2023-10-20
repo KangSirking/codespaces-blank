@@ -5,4 +5,3 @@
 printf("hello world");
 
 
-```
