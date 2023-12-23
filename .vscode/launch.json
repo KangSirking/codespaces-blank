@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/kangxie/Desktop/CorC++/king",
-      "program": "c:/Users/kangxie/Desktop/CorC++/king/build/Debug/outDebug",
+      "cwd": "c:/Users/kangxie/Desktop/CorC++/king/output",
+      "program": "c:/Users/kangxie/Desktop/CorC++/king/output/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
